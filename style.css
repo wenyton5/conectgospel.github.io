@@ -18,12 +18,12 @@ input[type="submit"]{
 }
 
 :root {
-    --main-color: #d92123;
+    --main-color: #1946dd;
     --primary-text-color: #FFF ;
     --secondary-text-color: #191919 ;
     --secondary-color: #868686;
     --tertiary-color: #eff3f4;
-    --secondary-bg-color: #5c1011;
+    --secondary-bg-color: #000;
 }
 
 i {
